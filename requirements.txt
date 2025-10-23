@@ -1,0 +1,6 @@
+numpy
+soundfile
+# optional for non-WAV/AIFF and fallback decoding
+librosa
+# optional for drag-and-drop UI
+tkinterdnd2
