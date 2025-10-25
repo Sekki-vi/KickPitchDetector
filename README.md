@@ -94,11 +94,11 @@ python main.py
 Computer Science graduate & software developer passionate about music tech and creative audio tools.
 
 * 📧 [kenyonj4@gmail.com](mailto:kenyonj4@gmail.com)
-* 🌐 [Portfolio Website](https://your-portfolio-link.com)
 * 💻 [GitHub @Sekki-vi](https://github.com/Sekki-vi)
 
 ---
 
 Would you like me to make a **shorter version (for recruiters)** or a **visual version (with badges, emojis, and screenshots)** of this README next?
+
 
 
